@@ -2,4 +2,4 @@
 
 Backend found here: https://github.com/CameronGastineau/CSCI-3916_HW3_Backend
 
-Heroku: https://csci-3916-hw3.herokuapp.com/#/signin
+App Page on Heroku: https://csci-3916-hw3.herokuapp.com/#/signin
